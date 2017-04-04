@@ -8,10 +8,6 @@ Running this example is as simple as downloading the .zip, importing the project
 
 It was built using Eclipse, and although I haven't tested it in other IDEs I can't imagine why it wouldn't run in them.
 
-## Code Example
-
-Explain how to run the automated tests for this system
-
 ## Built With
 
 * [Eclipse](https://eclipse.org/downloads/packages/eclipse-ide-java-developers/neon3) - The Eclipse IDE
